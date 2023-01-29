@@ -1,2 +1,2 @@
 # Corro-Kun.github.io
-Mi pagina
+Mi pagina de creacion de contenido digital
