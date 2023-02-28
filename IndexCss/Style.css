@@ -11,6 +11,7 @@ body{
     min-height: 100vh;
     overflow-x: hidden;
     background: #000000;
+    color: #000;
 }
 video{
     position: fixed;
